@@ -1,0 +1,1 @@
+This is the my text file for Git Bash Submission Assignment 2 for Version Control Course.
